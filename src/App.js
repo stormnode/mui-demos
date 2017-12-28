@@ -63,7 +63,7 @@ class App extends Component {
                   <Typography type="headline">Welcome to React</Typography>
                 </header>
                 <Typography type="body2">
-                  Oregon winters are dark and cold...
+                  My Oregon winters are dark and cold...
                 </Typography>
               </div>
             </CardContent>
