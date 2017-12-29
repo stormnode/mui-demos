@@ -4,5 +4,5 @@ Most of the
 will now run inside [CodeSandbox](https://codesandbox.io/)
 
 Simply
-[Import from Github](https://codesandbox.io/s/github)
+[Import from Github](https://codesandbox.io/s/github) --->
 [https://github.com/stormasm/csbox-mui-demos](https://github.com/stormasm/csbox-mui-demos)
